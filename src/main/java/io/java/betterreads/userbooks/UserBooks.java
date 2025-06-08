@@ -1,7 +1,5 @@
-package io.javabrains.betterreads.userbooks;
+package io.java.betterreads.userbooks;
 
-import org.springframework.data.annotation.Id;
-import org.springframework.data.cassandra.core.cql.PrimaryKeyType;
 import org.springframework.data.cassandra.core.mapping.*;
 
 import java.time.LocalDate;

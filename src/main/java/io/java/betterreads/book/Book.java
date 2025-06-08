@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.book;
+package io.java.betterreads.book;
 
 
 import org.springframework.data.annotation.Id;

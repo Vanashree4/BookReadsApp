@@ -1,4 +1,4 @@
-package io.javabrains.betterreads;
+package io.java.betterreads;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;

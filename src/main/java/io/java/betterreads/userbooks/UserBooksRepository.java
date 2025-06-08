@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.userbooks;
+package io.java.betterreads.userbooks;
 
 import org.springframework.data.cassandra.repository.CassandraRepository;
 

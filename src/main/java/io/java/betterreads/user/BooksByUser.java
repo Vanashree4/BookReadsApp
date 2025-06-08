@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.user;
+package io.java.betterreads.user;
 
 import org.springframework.data.cassandra.core.cql.PrimaryKeyType;
 import org.springframework.data.cassandra.core.mapping.CassandraType;

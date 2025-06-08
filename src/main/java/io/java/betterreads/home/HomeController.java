@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.home;
+package io.java.betterreads.home;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -11,8 +11,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import io.javabrains.betterreads.user.BooksByUser;
-import io.javabrains.betterreads.user.BooksByUserRepository;
+import io.java.betterreads.user.BooksByUser;
+import io.java.betterreads.user.BooksByUserRepository;
 
 @Controller
 public class HomeController {

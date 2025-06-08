@@ -1,9 +1,9 @@
-package io.javabrains.betterreads.book;
+package io.java.betterreads.book;
 
 
-import io.javabrains.betterreads.userbooks.UserBooks;
-import io.javabrains.betterreads.userbooks.UserBooksPrimaryKey;
-import io.javabrains.betterreads.userbooks.UserBooksRepository;
+import io.java.betterreads.userbooks.UserBooks;
+import io.java.betterreads.userbooks.UserBooksPrimaryKey;
+import io.java.betterreads.userbooks.UserBooksRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.oauth2.core.user.OAuth2User;

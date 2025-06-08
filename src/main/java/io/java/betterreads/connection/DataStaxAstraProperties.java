@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.connection;
+package io.java.betterreads.connection;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

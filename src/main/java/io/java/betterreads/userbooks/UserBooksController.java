@@ -1,15 +1,14 @@
-package io.javabrains.betterreads.userbooks;
+package io.java.betterreads.userbooks;
 
-import io.javabrains.betterreads.book.Book;
-import io.javabrains.betterreads.book.BookRepository;
-import io.javabrains.betterreads.user.BooksByUser;
-import io.javabrains.betterreads.user.BooksByUserRepository;
+import io.java.betterreads.book.Book;
+import io.java.betterreads.book.BookRepository;
+import io.java.betterreads.user.BooksByUser;
+import io.java.betterreads.user.BooksByUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.oauth2.core.user.OAuth2User;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.MultiValueMap;
-import org.springframework.util.SocketUtils;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.servlet.ModelAndView;
